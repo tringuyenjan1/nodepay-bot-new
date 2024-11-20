@@ -33,11 +33,11 @@ pkg install nano
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/ashtrobe/nodepaywoex.git
+git clone https://github.com/tringuyenjan1/nodepay-bot-new.git
 ```
 **Change directory:**
 ```
-cd nodepaywoex
+cd nodepay-bot-new
 ```
 
 **Install the dependencies:**
