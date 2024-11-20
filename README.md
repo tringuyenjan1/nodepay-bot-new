@@ -48,22 +48,6 @@ cd nodepay-bot-new
 npm install
 ```
 
----
-
-## Before running the bot, you need to put your token inside token.txt file.
-
-**To get your Bearer token:**
-
-- Download and install kiwi browser in your phone.
-- Go to Nodepay dashboard.
-- Open Developer Tools in kiwi browser.
-
-- Go to the **Console** tab in Developer Tools.
-
-- Type the following command to get your token:
-  ```bash
-  localStorage.getItem('np_webapp_token')
-  ```
 
 - This will return the Bearer token. ex: eyJhbGciOi.......
 
@@ -86,7 +70,7 @@ After adding, run the file Nodepay.exe.
 
 # Contact via Telegram: [@tringuyenjan12](https://t.me/tringuyenjan12) to receive 10 free proxies.
 
-# Note: Not 100% of the proxies will work with NodePay. Typically, out of 10 proxies that work with Grass, only 3-8 will work with NodePay. Additionally, each NodePay account can accept a maximum of 8 proxies from the tool.
+**Note: Not 100% of the proxies will work with NodePay. Typically, out of 10 proxies that work with Grass, only 3-8 will work with NodePay. Additionally, each NodePay account can accept a maximum of 8 proxies from the tool.**
 
 Refer to Grass here, bot: [https://github.com/tringuyenjan1/Grass-v2-auto-bot](https://github.com/tringuyenjan1/Grass-v2-auto-bot)
 
