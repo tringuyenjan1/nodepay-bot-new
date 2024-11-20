@@ -1,9 +1,15 @@
-## A bot for running Nodepay on android devices without browser or extension.
 
----
+# Nodepay-bot-proxy-free Tringuyenjan
+There's nothing here at all.
+Add the proxy to the file proxy.txt in the format http://user:pass@host:port. It also supports the format http://host:port.
+
+Buy proxies for running Grass at only 0.15USA per month. Minimum order: 50 proxies.
+Telegram: @Airdroptonghoptool. Buy proxy:  tele: @tringuyenjan12
+Data 
+![image](https://github.com/user-attachments/assets/38caa0e6-b540-4412-96d2-8fa7620203a9)
 
 # Requirements
-
+## A bot for running Nodepay on android devices without browser or extension.
 1. **Node.js**
 2. **npm** (Node package manager)
 
@@ -70,10 +76,15 @@ nano token.txt
 ```bash
 npm start
 ```
-Logs are stored in `bot.log` and can also be seen in the console.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Contact me. If you leave a good review, I'll give you 10 free proxies.
+After adding, run the file Nodepay.exe.
 
----
+
+# Contact via Telegram: [@tringuyenjan12](https://t.me/tringuyenjan12) to receive 10 free proxies.
+
+# Note: Not 100% of the proxies will work with NodePay. Typically, out of 10 proxies that work with Grass, only 3-8 will work with NodePay. Additionally, each NodePay account can accept a maximum of 8 proxies from the tool.
+
+Refer to Grass here, bot: [https://github.com/tringuyenjan1/Grass-v2-auto-bot](https://github.com/tringuyenjan1/Grass-v2-auto-bot)
+
