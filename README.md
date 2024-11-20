@@ -76,7 +76,7 @@ nano token.txt
 **To start the bot, run the following command:**
 
 ```bash
-npm start
+node nodepay.js
 ```
 
 
